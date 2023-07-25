@@ -391,8 +391,8 @@ aside div p:last-child {
   width: 60px;
   height: 60px;
   padding-left: 20px;
-  position: absolute;
-  right: -17px;
+  position: fixed;
+  right: -7px;
   bottom: 165px;
   color: #0058a8;
   z-index: 2;
@@ -406,8 +406,8 @@ aside div p:last-child {
   width: 60px;
   height: 60px;
   padding-left: 20px;
-  position: absolute;
-  right: -17px;
+  position: fixed;
+  right: -7px;
   bottom: 90px;
   color: #0058a8;
   z-index: 2;
@@ -434,8 +434,8 @@ aside div p:last-child {
   width: 60px;
   height: 60px;
   padding-left: 20px;
-  position: absolute;
-  right: -17px;
+  position: fixed;
+  right: -7px;
   bottom: 15px;
   color: #ff2851;
   z-index: 2;
